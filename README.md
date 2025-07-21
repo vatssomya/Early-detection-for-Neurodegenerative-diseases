@@ -1,4 +1,4 @@
-# Early-detection-for-Neurodegenerative-diseases
+# AI driven system for Early-detection-for-Neurodegenerative-diseases
 ### Introduction
 
 Neurodegenerative diseases, such as Alzheimer's and Parkinson's disease, present significant challenges to healthcare systems worldwide. These conditions are characterized by a progressive decline in neuronal function, leading to various cognitive and motor impairments. Early detection and accurate diagnosis are crucial for effective intervention and management of symptoms. This project aims to develop an integrated approach for early detection of neurodegenerative diseases through four innovative methods: **MRI Analysis**, **Parkinson's detection**, and a series of **Cognitive tests**. By leveraging machine learning techniques and advanced imaging methods, we seek to enhance diagnostic accuracy and improve patient outcomes.
